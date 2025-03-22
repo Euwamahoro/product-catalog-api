@@ -75,8 +75,8 @@ All endpoints return responses in the following format:
 ```json
 {
   "success": true|false,
-  "count": 10,          // Number of items (for collection endpoints)
-  "data": {...}         // Response data
+  "count": 10
+  "data": {data}
 }
 ```
 
