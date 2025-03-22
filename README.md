@@ -242,7 +242,6 @@ Response:
       "price": 19.99,
       "discountPercentage": 10,
       "sku": "TSHIRT-CLASSIC"
-      // other fields omitted for brevity
     },
     {
       "id": "8e5d3c2b-1a9f-8e7d-6c5b-4d3e2f1a0b9c",
@@ -251,7 +250,6 @@ Response:
       "price": 39.99,
       "discountPercentage": 0,
       "sku": "SHIRT-FORMAL"
-      // other fields omitted for brevity
     }
   ]
 }
